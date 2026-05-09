@@ -117,15 +117,7 @@
 
 ---
 
-# 🔥 3D DEV SECTION
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
-
-</div>
-
----
 
 # 💻 SAMPLE JAVASCRIPT QUESTION
 
